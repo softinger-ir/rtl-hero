@@ -1,4 +1,4 @@
-# RTL Hero 🦸‍♂️  
+# RTL Hero  
 *A Figma plugin to flip layouts between RTL and LTR.*
 
 ---
@@ -39,10 +39,15 @@ No framework overhead — designed for performance and simplicity.
 ## 📦 Project Structure
 
 rtl-hero/
+
 ├─ manifest.json → Plugin metadata and permissions
+
 ├─ code.js → Core logic communicating with Figma API
+
 ├─ ui.html → Plugin user interface
+
 ├─ assets/ → Icons and static resources
+
 └─ LICENSE
 
 
