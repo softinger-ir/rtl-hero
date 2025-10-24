@@ -1,0 +1,8 @@
+{
+  "name": "RTL Hero",
+  "id": "rtl-hero",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "ui": "ui.html"
+}
